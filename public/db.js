@@ -21,7 +21,7 @@ request.onerror = function (event) {
 // On success console the result
 request.onsuccess = event => {
     // console.log(event.request.result);
-    db = event.request.result;
+    db = event.target.result;
 
     if (navigator.onLine) {
         checkDatabase()
