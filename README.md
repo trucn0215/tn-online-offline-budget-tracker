@@ -29,4 +29,4 @@ SO THAT my account balance is accurate when I am traveling
 * [Repo Link](https://github.com/trucn0215/tn-online-offline-budget-tracker)
 
 ## Screenshot
-![Home Page]()
+![Home Page](public/image/Budget-Tracker-Demo.png)
